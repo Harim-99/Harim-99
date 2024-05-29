@@ -11,9 +11,9 @@ I am a student studying development at **Incheon National University**.
 
 ## 📫 Contact Me
 
-- 이메일: kdsocks5@naver.com
-- 인스타그램: [My Instargram](https://www.instagram.com/jghyunk04/)
-- 블로그: [My Blog](https://blog.naver.com/kdsocks5)
+- E-Mail: kdsocks5@naver.com
+- Instargram: [My Instargram](https://www.instagram.com/jghyunk04/)
+- Blog: [My Blog](https://blog.naver.com/kdsocks5)
 
 ## 🛠️ Tech Stack
 
