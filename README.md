@@ -18,8 +18,8 @@ I am a student studying development at **Incheon National University**.
 ## 🛠️ Tech Stack
 
 - **Languages**: ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white), ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?logo=javascript&logoColor=white)
-- **Frameworks**: ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- **Blockchain Platforms**: ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+- **Frameworks**: ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white), ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+- **Blockchain Platforms**: ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white), ![Solana](https://img.shields.io/badge/-Solana-9933CC?logo=solana&logoColor=white)
 
 ## 📈 GitHub Stats
 
