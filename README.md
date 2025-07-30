@@ -2,12 +2,6 @@
   <img src="./1753847924.png" alt="Background Banner" width="100%" />
 </p>
 
-# Hello! 👋
-
-<p align="center">
-  <img src="./1753847924.png" alt="Profile Pic" width="200" style="border-radius:50%;" />
-</p>
-
 ---
 
 ## ✨ About Me
