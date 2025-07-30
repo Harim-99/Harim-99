@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://m.dcinside.com/board/bisquedoll/42796?r=&recommend=1" alt="Background Banner" width="100%" />
+  <img src="./1753847924.png" alt="Background Banner" width="100%" />
 </p>
 
 # Hello! 👋
 
 <p align="center">
-  <img src="https://m.dcinside.com/board/bisquedoll/42796?r=&recommend=1" alt="Profile Pic" width="200" style="border-radius:50%;" />
+  <img src="./1753847924.png" alt="Profile Pic" width="200" style="border-radius:50%;" />
 </p>
-
-저는 **Incheon National University**에서 개발을 공부 중인 학생입니다.
 
 ---
 
@@ -22,14 +20,6 @@
   DApp · DeFi trading bots (Sniping · Minting)  
 - 🥅 **Goal by 30**  
   Create a steady cash flow with my own projects
-
----
-
-## 📫 Contact Me
-
-- ✉️ **E-Mail:** kdsocks5@naver.com  
-- 📸 **Instagram:** [jghyunk04](https://www.instagram.com/jghyunk04/)  
-- 📝 **Blog:** [kdsocks5·네이버 블로그](https://blog.naver.com/kdsocks5)
 
 ---
 
