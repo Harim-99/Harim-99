@@ -1,4 +1,4 @@
-### 안녕하세요. Hi
+### HI
  
 Backend developer moving into Web3, on-chain arbitrage, and quant.
 I build trading bots, on-chain forensics tools, and smart contracts.
