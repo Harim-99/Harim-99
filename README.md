@@ -1,15 +1,13 @@
-<p align="center">
-  <img src="./1753847924.png" alt="Background Banner" width="100%" />
-</p>
-
----
-
-## 🌟 Lifelong Masterpieces / 人生最大の名作
-
-| 日本語タイトル                     | English Title               |
-|----------------------------------|-----------------------------|
-| **あそびにいくヨ！**              | Asobi ni Iku Yo!            |
-| **デート・ア・ライブ**            | Date A Live                 |
-| **IS〈インフィニット・ストラトス〉** | IS: Infinite Stratos        |
-| **そらのおとしもの**              | Sora no Otoshimono          |
-| **神のみぞ知るセカイ**            | The World God Only Knows    |
+### Hi 👋
+ 
+Backend developer moving into Web3, on-chain arbitrage, and quant.
+I build trading bots, on-chain forensics tools, and smart contracts.
+ 
+**Languages** &nbsp; TypeScript · Python · Solidity
+ 
+### Projects
+ 
+- Arbitrage bots (CEX/DEX, prediction markets, web3 TCG platforms)
+- On-chain VRF smart contracts
+- On-chain forensics & wallet-tracking tools
+- Personal trading dashboard with auto-hedging
